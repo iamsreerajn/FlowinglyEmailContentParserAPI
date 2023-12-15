@@ -28,7 +28,7 @@ Current version of **ECP_App** is capable of handling below actions.
         • Entity Framework - Code first model
         • Sql Server
 
-
+**Note: Saletax percentage is assumed as 20**
 
 
 
